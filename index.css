@@ -1,0 +1,14 @@
+div{
+    margin:20px;
+}
+#left,#center,#right{
+    float:left;
+}
+
+td{
+    padding:5px 15px;
+}
+
+.field_name_td{
+    font-weight:bold;
+}
